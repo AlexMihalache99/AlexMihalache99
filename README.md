@@ -1,4 +1,4 @@
- [![MasterHead](https://imgur.com/7R543Q3)]
+ [(https://imgur.com/7R543Q3)]
 <h1 align="center">Hi 👋, I'm Alexandru Mihalache</h1>
 <h3 align="center">A software engineer freelancer</h3>
 
