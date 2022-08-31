@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **contact@alexandrumihalache.com**
 
-- 📄 Know about my experiences ![https://shorturl.at/orz13](https://shorturl.at/orz13)
+- 📄 Know about my experiences ![https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
