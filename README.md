@@ -22,7 +22,7 @@
 <a href="https://twitter.com/freelancerchamp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="freelancerchamp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/catalin-alexandru-mihalache-397781179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="catalin-alexandru-mihalache-397781179" height="30" width="40" /></a>
 <a href="https://instagram.com/alexandrumihalache" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandrumihalache" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UC3oDhoEJmnGzV7zEz3ydrWA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexandru mihalache" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3oDhoEJmnGzV7zEz3ydrWA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexandru mihalache" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
