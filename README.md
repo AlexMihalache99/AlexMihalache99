@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **contact@alexandrumihalache.com**
 
-- 📄 Know about my experiences ![shorturl.at/orz13](My CV)
+- 📄 Know about my experiences ![shorturl.at/orz13](shorturl.at/orz13)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
