@@ -1,4 +1,5 @@
-
+###Software engineering
+[![Software engineering](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/Alexandru%20Mihalache%20(1).png)]
 <h1 align="center">Hi 👋, I'm Alexandru Mihalache</h1>
 <h3 align="center">A software engineer freelancer</h3>
 
