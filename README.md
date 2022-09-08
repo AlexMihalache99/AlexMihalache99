@@ -18,8 +18,8 @@
 - 📄 Know about my experiences [https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf).
 <hr>
 <h3 align="left"> My Latest Blog posts👇 </h3>
- <!-- BLOG-LIST:START -->
- <!-- BLOG-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
