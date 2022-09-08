@@ -4,18 +4,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmihalache99&label=Profile%20views&color=0e75b6&style=flat" alt="alexmihalache99" /> </p>
 <p align="left"> <a href="https://twitter.com/freelancerchamp" target="blank"><img src="https://img.shields.io/twitter/follow/freelancerchamp?logo=twitter&style=for-the-badge" alt="freelancerchamp" /></a> </p>
 
+<hr>
+
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrap, React**
+- 👯 I’m looking to collaborate on **front-end development**.
 
-- 👯 I’m looking to collaborate on **front-end development**
+- 📝 I regularly write articles on [https://alexandrumihalache.com/](https://alexandrumihalache.com/).
 
-- 📝 I regularly write articles on [https://alexandrumihalache.com/](https://alexandrumihalache.com/)
+- 💬 Ask me about **Python, Java, OOP, C++**.
 
-- 💬 Ask me about **python, java, OOP, C++**
+- 📫 How to reach me **contact@alexandrumihalache.com**.
 
-- 📫 How to reach me **contact@alexandrumihalache.com**
-
-- 📄 Know about my experiences ![https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf)
-
+- 📄 Know about my experiences [https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf).
+<hr>
+<h3 align="left"> My Latest Blog posts👇 </h3>
+ <!-- BLOG-LIST:START -->
+ <!-- BLOG-LIST:END -->
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/freelancerchamp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="freelancerchamp" height="30" width="40" /></a>
@@ -30,4 +35,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alexmihalache99&show_icons=true&theme=kacho_ga&locale=en&layout=compact" alt="alexmihalache99"/></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexmihalache99&theme=kacho_ga" alt="alexmihalache99" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmihalache99&show_icons=true&locale=en&layout=compact&theme=kacho_ga" alt="alexmihalache99"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmihalache99&show_icons=true&locale=en&layout=compact&theme=kacho_ga" alt="alexmihalache99"/></p>
