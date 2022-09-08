@@ -19,11 +19,11 @@
 <hr>
 <h3 align="left"> My Latest Blog posts👇 </h3>
 <p align="left">
- - <a href="https://alexandrumihalache.com/day-8-of-self-improvement/" title="Self Improvement Day 8."> <strong>Self Improvement Day 8</strong> </a> <br>
- - <a href="https://alexandrumihalache.com/day-7-of-self-improvement/" title="Self Improvement Day 7."> <strong>Self Improvement Day 7</strong> </a> <br>
- - <a href="https://alexandrumihalache.com/day-6-of-self-improvement/" title="Self Improvement Day 6."> <strong>Self Improvement Day 6</strong> </a> <br>
- - <a href="https://alexandrumihalache.com/day-5-of-self-improvement/" title="Self Improvement Day 5."> <strong>Self Improvement Day 5</strong> </a> <br>
- - <a href="https://alexandrumihalache.com/day-4-of-self-improvement/" title="Self Improvement Day 4."> <strong>Self Improvement Day 4</strong> </a> 
+ - <a href="https://alexandrumihalache.com/day-8-of-self-improvement/" title="Self Improvement Day 8." target="_blank" > <strong>Self Improvement Day 8</strong> </a> <br>
+ - <a href="https://alexandrumihalache.com/day-7-of-self-improvement/" title="Self Improvement Day 7." target="_blank" > <strong>Self Improvement Day 7</strong> </a> <br>
+ - <a href="https://alexandrumihalache.com/day-6-of-self-improvement/" title="Self Improvement Day 6." target="_blank" > <strong>Self Improvement Day 6</strong> </a> <br>
+ - <a href="https://alexandrumihalache.com/day-5-of-self-improvement/" title="Self Improvement Day 5." target="_blank" > <strong>Self Improvement Day 5</strong> </a> <br>
+ - <a href="https://alexandrumihalache.com/day-4-of-self-improvement/" title="Self Improvement Day 4." target="_blank" > <strong>Self Improvement Day 4</strong> </a> 
 </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
