@@ -35,4 +35,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alexmihalache99&show_icons=true&theme=kacho_ga&locale=en&layout=compact" alt="alexmihalache99"/></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexmihalache99&theme=kacho_ga" alt="alexmihalache99" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmihalache99&show_icons=true&locale=en&layout=compact&theme=kacho_ga" alt="alexmihalache99"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmihalache99&show_icons=true&locale=en&layout=compact&theme=kacho_ga" alt="alexmihalache99"/></p>
