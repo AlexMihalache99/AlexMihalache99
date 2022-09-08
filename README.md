@@ -18,8 +18,13 @@
 - 📄 Know about my experiences [https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf).
 <hr>
 <h3 align="left"> My Latest Blog posts👇 </h3>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="left">
+<a href="https://alexandrumihalache.com/day-8-of-self-improvement/" title="Self Improvement Day 8."> <strong>Self Improvement Day 8</strong> </a> <br>
+<a href="https://alexandrumihalache.com/day-7-of-self-improvement/" title="Self Improvement Day 7."> <strong>Self Improvement Day 7</strong> </a> <br>
+<a href="https://alexandrumihalache.com/day-6-of-self-improvement/" title="Self Improvement Day 6."> <strong>Self Improvement Day 6</strong> </a> <br>
+<a href="https://alexandrumihalache.com/day-5-of-self-improvement/" title="Self Improvement Day 5."> <strong>Self Improvement Day 5</strong> </a> <br>
+<a href="https://alexandrumihalache.com/day-4-of-self-improvement/" title="Self Improvement Day 4."> <strong>Self Improvement Day 4</strong> </a> 
+</p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
