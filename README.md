@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf).
 <hr>
-###Blog posts
+###Blog Posts
 <!--- BLOG-POST-LIST:START --->
 <!--- BLOG-POST-LIST:END --->
 <hr>
