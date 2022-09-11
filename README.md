@@ -17,14 +17,10 @@
 
 - 📄 Know about my experiences [https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf).
 <hr>
-<h3 align="left"> My Latest Blog posts👇 </h3>
-<p align="left">
- - <a href="https://alexandrumihalache.com/day-9-of-self-improvement/" title="Self Improvement Day 9." target="_blank" > <strong>Self Improvement Day 9</strong> </a> <br>
- - <a href="https://alexandrumihalache.com/apple-far-out-event/" title="Apple Far Out event." target="_blank" > <strong>Apple Far Out event</strong> </a> <br>
- - <a href="https://alexandrumihalache.com/day-8-of-self-improvement/" title="Self Improvement Day 8." target="_blank"> <strong>Self Improvement Day 8</strong> </a> <br>
- - <a href="https://alexandrumihalache.com/day-7-of-self-improvement/" title="Self Improvement Day 7." target="_blank" > <strong>Self Improvement Day 7</strong> </a> <br>
- - <a href="https://alexandrumihalache.com/day-6-of-self-improvement/" title="Self Improvement Day 6." target="_blank" > <strong>Self Improvement Day 6</strong> </a> 
-</p>
+<h3>My latest blogs👇</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
