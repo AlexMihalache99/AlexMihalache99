@@ -19,6 +19,9 @@
 <hr>
 <h3>My latest blogs👇</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Self Improvement Day 9](https://alexandrumihalache.com/day-9-of-self-improvement/)
+- [Self Improvement Day 8](https://alexandrumihalache.com/day-8-of-self-improvement/)
+- [Self Improvement Day 7](https://alexandrumihalache.com/day-7-of-self-improvement/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
