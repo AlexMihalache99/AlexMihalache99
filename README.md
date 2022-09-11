@@ -17,10 +17,10 @@
 
 - 📄 Know about my experiences [https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf).
 <hr>
-<h3>My latest blogs👇</h3>
+<h3>My Latest Blogs Posts👇</h3>
 <!-- BLOG-POST-LIST:START -->
-- [Self Improvement Day 9](https://alexandrumihalache.com/day-9-of-self-improvement/)
-- [Self Improvement Day 8](https://alexandrumihalache.com/day-8-of-self-improvement/)
+- [Self Improvement Day 9](https://alexandrumihalache.com/day-9-of-self-improvement/)<br>
+- [Self Improvement Day 8](https://alexandrumihalache.com/day-8-of-self-improvement/)<br>
 - [Self Improvement Day 7](https://alexandrumihalache.com/day-7-of-self-improvement/)
 <!-- BLOG-POST-LIST:END -->
 
