@@ -19,9 +19,11 @@
 <hr>
 <h3>My Latest Blogs Posts👇</h3>
 <!-- BLOG-POST-LIST:START -->
-- [Self Improvement Day 9](https://alexandrumihalache.com/day-9-of-self-improvement/)<br>
-- [Self Improvement Day 8](https://alexandrumihalache.com/day-8-of-self-improvement/)<br>
+- [Self Improvement Day 10](https://alexandrumihalache.com/day-10-of-self-improvement/)
+- [Self Improvement Day 9](https://alexandrumihalache.com/day-9-of-self-improvement/)
+- [Self Improvement Day 8](https://alexandrumihalache.com/day-8-of-self-improvement/)
 - [Self Improvement Day 7](https://alexandrumihalache.com/day-7-of-self-improvement/)
+- [Self Improvement Day 6](https://alexandrumihalache.com/day-6-of-self-improvement/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
