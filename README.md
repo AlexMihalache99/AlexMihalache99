@@ -19,11 +19,11 @@
 <hr>
 <h3>My Latest Blogs Posts👇</h3>
 <!-- BLOG-POST-LIST:START -->
-- [Self Improvement Day 16](https://alexandrumihalache.com/day-16-of-self-improvement/)<br>
-- [Self Improvement Day 15](https://alexandrumihalache.com/day-15-of-self-improvement/)<br>
-- [Self Improvement Day 14](https://alexandrumihalache.com/day-14-of-self-improvement/)<br>
-- [Self Improvement Day 13](https://alexandrumihalache.com/day-13-of-self-improvement/)<br>
-- [Self Improvement Day 12](https://alexandrumihalache.com/day-12-of-self-improvement/)
+- [Self Improvement Day 17](https://alexandrumihalache.com/day-17-of-self-improvement/)
+- [Self Improvement Day 16](https://alexandrumihalache.com/day-16-of-self-improvement/)
+- [Self Improvement Day 15](https://alexandrumihalache.com/day-15-of-self-improvement/)
+- [Self Improvement Day 14](https://alexandrumihalache.com/day-14-of-self-improvement/)
+- [Self Improvement Day 13](https://alexandrumihalache.com/day-13-of-self-improvement/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
