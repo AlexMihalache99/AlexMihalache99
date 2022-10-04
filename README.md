@@ -9,13 +9,13 @@
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrap, React**
 - 👯 I’m looking to collaborate on **front-end development**.
 
-- 📝 I regularly write articles on [https://alexandrumihalache.com/](https://alexandrumihalache.com/).
+- 📝 I regularly write articles on [Alexandru Mihalache website](https://alexandrumihalache.com/).
 
 - 💬 Ask me about **Python, Java, OOP, C++**.
 
 - 📫 How to reach me **contact@alexandrumihalache.com**.
 
-- 📄 Know about my experiences [https://github.com/AlexMihalache99/AlexMihalache99/blob/main/Alexandru_Mihalache_CV.pdf](Alexandru Mihalache).
+- 📄 Know about my experiences [Alexandru Mihalache CV](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/Alexandru_Mihalache_CV.pdf).
 <hr>
 <h3>My Latest Blogs Posts👇</h3>
 <!-- BLOG-POST-LIST:START -->
