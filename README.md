@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **contact@alexandrumihalache.com**.
 
-- 📄 Know about my experiences [https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/My_CV_updated.pdf).
+- 📄 Know about my experiences [https://github.com/AlexMihalache99/AlexMihalache99/blob/main/Alexandru_Mihalache_CV.pdf](Alexandru Mihalache).
 <hr>
 <h3>My Latest Blogs Posts👇</h3>
 <!-- BLOG-POST-LIST:START -->
