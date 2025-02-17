@@ -17,15 +17,6 @@
 
 - 📄 Know about my experiences [Alexandru Mihalache CV](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/Alexandru_Mihalache_CV.pdf).
 <hr>
-<h3>My Latest Blogs Posts👇</h3>
-<!-- BLOG-POST-LIST:START -->
-- [Self Improvement Day 44](https://alexandrumihalache.com/day-44-of-self-improvement/)
-- [Self Improvement Day 42](https://alexandrumihalache.com/day-42-of-self-improvement/)
-- [Self Improvement Day 41](https://alexandrumihalache.com/day-41-of-self-improvement/)
-- [Self Improvement Day 40](https://alexandrumihalache.com/day-40-of-self-improvement/)
-- [Self Improvement Day 39](https://alexandrumihalache.com/day-39-of-self-improvement/)
-<!-- BLOG-POST-LIST:END -->
-
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
