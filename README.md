@@ -10,8 +10,7 @@
 
 - 💬 Ask me about **Python, Java, OOP, C++**.
 
-- 📄 Know about my experiences [Alexandru Mihalache CV](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/CV.Alexandru_Mihalache.pdf).
-<hr>
+- 📄 Know about my experiences [Alexandru Mihalache CV](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/CV_Alexandru_Mihalache.pdf).
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
