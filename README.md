@@ -2,18 +2,13 @@
 ![Software engineering](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/1.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmihalache99&label=Profile%20views&color=0e75b6&style=flat" alt="alexmihalache99" /> </p>
-<p align="left"> <a href="https://twitter.com/freelancerchamp" target="blank"><img src="https://img.shields.io/twitter/follow/freelancerchamp?logo=twitter&style=for-the-badge" alt="freelancerchamp" /></a> </p>
 
 <hr>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrap, React**
 - 👯 I’m looking to collaborate on **front-end development**.
 
-- 📝 I regularly write articles on [Alexandru Mihalache website](https://alexandrumihalache.com/).
-
 - 💬 Ask me about **Python, Java, OOP, C++**.
-
-- 📫 How to reach me **contact@alexandrumihalache.com**.
 
 - 📄 Know about my experiences [Alexandru Mihalache CV](https://github.com/AlexMihalache99/AlexMihalache99/blob/main/Alexandru_Mihalache_CV.pdf).
 <hr>
